@@ -2,4 +2,4 @@
 
 <img src="./public/img/graphiql.jpg"></img>
 
-<img src="/img/mongo.jpg"></img>
+<img src="./public/img/mongo.jpg"></img>
